@@ -1,0 +1,8 @@
+{
+  "context_sha256": "7889dbbe6c3c105ea29ef4294bcd692db22d1d5ad9bec1817bcbb71cc8ccd5e9",
+  "entity_count": 2,
+  "evidence_sha256": "dfeb7beddd05723d36c6cf726bd7ebebe4409d50fae010a74000bbd775caaaf0",
+  "quarantined_count": 1,
+  "query": "customer",
+  "truncated": false
+}

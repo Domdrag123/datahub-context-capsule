@@ -33,6 +33,10 @@ context-capsule --fixture demo/catalog.json --query customer --output output
 
 The fixture contains a deliberate prompt injection in a dataset description. The produced Markdown replaces it with a SHA-addressed quarantine marker while retaining useful structural metadata.
 
+The checked-in [`examples/context-capsule.md`](examples/context-capsule.md)
+and [`examples/manifest.json`](examples/manifest.json) show the exact safe
+output without requiring a DataHub tenant.
+
 Live DataHub MCP usage:
 
 ```bash
